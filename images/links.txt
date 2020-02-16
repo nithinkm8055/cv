@@ -1,0 +1,2 @@
+<img class="rack" src="https://image.flaticon.com/icons/svg/2119/2119060.svg" alt="dumbbell-rack-img">
+<img class="workout" src="https://image.flaticon.com/icons/svg/983/983536.svg" alt="workout-img">
